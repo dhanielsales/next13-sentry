@@ -9,5 +9,4 @@ Sentry.init({
   tracesSampleRate: 1,
   debug: false,
   profilesSampleRate: 1.0,
-
 });
